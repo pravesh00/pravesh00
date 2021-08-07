@@ -1,4 +1,5 @@
 ## Hola, I'm Pravesh Choudhary👋
+Currently I am a Pre-Final year student at IIT Roorkee, who loves to explore new tech stuff. I am well versed with android development and MERN stack. I like to innovate and I also like to work on new ideas by taking part in different hackathons and working on some cool projects. Checkout out some of my work from the below repos.
 
 <a href="https://www.linkedin.com/in/praveshchoudharyy/">
   <img align="left" alt="Pravesh's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
