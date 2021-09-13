@@ -36,7 +36,7 @@ Currently I am a Pre-Final year student at IIT Roorkee, who loves to explore new
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by staring some of the repositories!
 
 </div>
 
